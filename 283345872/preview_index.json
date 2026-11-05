@@ -1,7 +1,7 @@
 {
   "qq_number": "2540350673",
   "group_number": "283345872",
-  "updated_at": "2026-11-05T11:53:13+00:00",
+  "updated_at": "2026-11-05T11:53:43+00:00",
   "skins": [
     {
       "name": "姗の永会3",
@@ -23,6 +23,13 @@
       "thumb": "姗_永会4.bds_py_26_light_thumb.png",
       "full": "姗_永会4.bds_py_26_light_thumb.png",
       "file_id": "47778773"
+    },
+    {
+      "name": "姗の永会6",
+      "file": "姗_永会6.bds",
+      "thumb": "姗_永会6.bds_py_26_light_thumb.png",
+      "full": "姗_永会6.bds_py_26_light_thumb.png",
+      "file_id": "47654748"
     }
   ]
 }
